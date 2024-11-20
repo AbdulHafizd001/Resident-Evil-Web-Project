@@ -18,4 +18,4 @@ Proyek ini adalah sebuah website yang menyediakan daftar senjata rahasia dalam g
 
 **Tampilan Dark Mode:**
 
-![Dark Mode](assets/images/dark_mode.jpg)
+![Dark Mode](https://github.com/AbdulHafizd001/Resident-Evil-Web-Project/blob/main/Interface/dark%20mode.png)
