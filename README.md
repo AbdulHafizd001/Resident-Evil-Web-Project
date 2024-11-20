@@ -14,7 +14,7 @@ Proyek ini adalah sebuah website yang menyediakan daftar senjata rahasia dalam g
 ## Screenshots
 **Tampilan Normal Mode:**
 
-![Normal Mode](assets/images/normal_mode.jpg)
+![Normal Mode](https://github.com/AbdulHafizd001/Resident-Evil-Web-Project/blob/main/Interface/normal%20mode.png)
 
 **Tampilan Dark Mode:**
 
