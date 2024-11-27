@@ -1,4 +1,5 @@
-# Resident-Evil-Web-Project
+# Project ini di buat untuk menyelesaikan modul "Belajar Dasar Pemrograman Web" di DICODING (Bangkit Academy)
+## Resident-Evil-Web-Project
 # Daftar Senjata Rahasia di Game Resident Evil 4
 
 ## Deskripsi Proyek
